@@ -1,6 +1,6 @@
 wysiwyg-editor
 ==============
 
-A simple WYSIWYG rich text editor plugin
+A simple WYSIWYG text editor plugin
 
 Font Awesome by Dave Gandy - http://fontawesome.io
